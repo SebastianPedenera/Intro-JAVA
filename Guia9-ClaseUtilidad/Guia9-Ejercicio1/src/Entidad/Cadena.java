@@ -1,4 +1,4 @@
-package Entidad.Ejercicio1;
+package Entidad;
 
 public class Cadena {
 

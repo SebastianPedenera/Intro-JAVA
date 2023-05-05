@@ -1,7 +1,6 @@
-package Service.Ejercicio1;
+package Service;
 
-
-import Entidad.Ejercicio1.Cadena;
+import Entidad.Cadena;
 import java.io.IOException;
 import java.util.Scanner;
 

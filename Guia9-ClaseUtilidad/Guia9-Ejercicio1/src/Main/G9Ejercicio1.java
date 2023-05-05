@@ -1,7 +1,7 @@
 package Main;
 
-import Entidad.Ejercicio1.Cadena;
-import Service.Ejercicio1.CadenaService;
+import Entidad.Cadena;
+import Service.CadenaService;
 
 public class G9Ejercicio1 {
 
