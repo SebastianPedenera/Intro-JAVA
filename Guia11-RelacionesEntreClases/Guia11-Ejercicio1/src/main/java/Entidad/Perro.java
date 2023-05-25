@@ -51,7 +51,7 @@ public class Perro {
 
     @Override
     public String toString() {
-        return "Perro{" + "nombre=" + nombre + ", raza=" + raza + ", edad=" + edad + ", tamanio=" + tamanio + '}';
+        return "nombre: " + nombre + ", raza: " + raza + ", edad: " + edad + ", tamaño: " + tamanio ;
     }
 
         
