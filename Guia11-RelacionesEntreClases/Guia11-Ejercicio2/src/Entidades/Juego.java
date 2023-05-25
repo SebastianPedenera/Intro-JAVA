@@ -37,6 +37,7 @@ public class Juego {
 
         cargarJugadores();
         revolver.llenarRevolver(); //math atributos
+        System.out.println(revolver.toString());
         boolean perdedor;
         int intentos = 6; //cantidad de lugares
         int j, cont = 0;

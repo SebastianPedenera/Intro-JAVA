@@ -6,8 +6,8 @@ public class Revolver {
     private Integer posicionAgua;
     
     public void llenarRevolver(){
-        this.posicionActual = (int) (Math.random()*7);
-        this.posicionAgua = (int) (Math.random()*7);
+        this.posicionActual = (int) (Math.random()*6);
+        this.posicionAgua = (int) (Math.random()*6);
     }
     
     public boolean mojar(){
