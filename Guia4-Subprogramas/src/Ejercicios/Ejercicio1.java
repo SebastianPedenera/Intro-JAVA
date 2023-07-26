@@ -1,6 +1,3 @@
-/*
- 
- */
 package Ejercicios;
 
 import java.util.Scanner;
@@ -32,16 +29,16 @@ public class Ejercicio1 {
     public static void menuopt(int opt, int num1, int num2) {
         switch (opt) {
             case 1:
-                System.out.println(suma(num1, num2));;
+                System.out.println(suma(num1, num2));
                 break;
             case 2:
-                 System.out.println(resta(num1, num2));;
+                System.out.println(resta(num1, num2));
                 break;
             case 3:
-                 System.out.println(mult(num1, num2));;
+                System.out.println(mult(num1, num2));
                 break;
             case 4:
-                 System.out.println(div(num1, num2));;
+                System.out.println(div(num1, num2));
                 break;
         }
     }
